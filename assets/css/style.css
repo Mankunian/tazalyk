@@ -341,24 +341,47 @@ h1, h2, h3, h4, h5, h6 {
 --------------------------------------------------------------*/
 #hero {
   width: 100%;
-  background-image: url("../img/hero-bg.png");
+  /* background-image: url("../img/hero-bg.png"); */
+  background-image: url("../img/custom/bg.jpg");
   background-repeat: no-repeat;
-  background-size: contain;
+  /* background-size: contain; */
+  background-size: cover;
   background-position: right top;
   margin-top: 70px;
-  padding: 60px 0;
+  /* padding: 60px 0; */
+  padding: 120px 0;
 }
+
+/* Custom start */
+
+.banner{
+	background-color: rgb(5 24 41 / 50%);
+	padding: 10px;
+	border-radius: 3px;
+}
+
+.service-img{
+	margin: auto;
+}
+
+.portfolio-wrap img {
+	width: 100% !important;
+}
+/* Custom end */
+
 
 #hero h1 {
   margin: 0 0 20px 0;
-  font-size: 48px;
+  font-size: 40px;
   font-weight: 700;
   line-height: 56px;
-  color: #364146;
+  /* color: #364146; */
+  color: #fff;
 }
 
 #hero h2 {
-  color: #576971;
+  /* color: #576971; */
+  color: #fff;
   margin-bottom: 30px;
   font-size: 18px;
 }
