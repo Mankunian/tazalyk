@@ -1298,6 +1298,7 @@ section {
 # Contact
 --------------------------------------------------------------*/
 .contact .info {
+	/* height: fit-content; */
   padding: 20px;
   background: #fff;
   width: 100%;
