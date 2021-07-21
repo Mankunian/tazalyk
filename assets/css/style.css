@@ -1109,7 +1109,8 @@ section {
 }
 
 .clients .client-logo img {
-  max-width: 50%;
+	width: 150px;
+  /* max-width: 50%; */
   filter: grayscale(100);
 }
 
