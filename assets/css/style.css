@@ -368,6 +368,10 @@ h1, h2, h3, h4, h5, h6 {
 	border-radius: 3px;
 }
 
+.banner h5 {
+	color: #fff;
+}
+
 .service-img{
 	margin: auto;
 }
