@@ -104,7 +104,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0;
   margin: 0;
   /* max-height: 40px; */
-	max-height: 75px;
+	max-height: 70px;
   padding: 10px;
 }
 
@@ -349,8 +349,8 @@ h1, h2, h3, h4, h5, h6 {
 --------------------------------------------------------------*/
 #hero {
   width: 100%;
-  /* background-image: url("../img/hero-bg.png"); */
-  background-image: url("../img/custom/bg.jpg");
+  background-image: url("../img/tazalyq/44.jpg");
+  background-image: url("https://franch.biz/aaa/images/franch/titles/1770.jpg");
   background-repeat: no-repeat;
   /* background-size: contain; */
   background-size: cover;
